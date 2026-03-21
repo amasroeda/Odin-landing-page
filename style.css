@@ -45,3 +45,32 @@ h1{
     color: white;
     font-size: 16px;
 }
+.features{
+    margin-top: 3rem; 
+}
+h2{
+    font-size: 36px;
+    color: #1F2937;
+    font-weight: 900;
+    text-align: center;
+    margin-bottom: 3rem;
+}
+.flexContainer{
+    display: flex;
+    justify-content: space-between;
+    margin: auto 24rem;
+}
+.one{
+    border: solid;
+    border-width: 0.2rem;
+    border-color: #3882F6;
+    border-radius: 0.5rem;
+    width: 9rem;
+    height: 9rem;
+}
+.pFlexItem{
+    width: 9rem;
+    text-align: center;
+    margin-top: 0.5rem;
+    margin-bottom: 6rem;
+}
